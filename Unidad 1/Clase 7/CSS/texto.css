@@ -1,0 +1,62 @@
+.A {
+    background-color: rgb(255, 127, 227);
+    border: 10px solid palegreen;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px;
+}
+
+.B {
+    background-color: rgb(255, 127, 227);
+    border: 10px solid palegreen;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}
+
+.C {
+    background-color: rgb(255, 127, 227);
+    border: 10px solid palegreen;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+
+.D {
+    background-color: rgb(255, 127, 227);
+    border: 10px solid palegreen;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+}
+
+.E {
+    background-color: rgb(255, 127, 227);
+    border: 10px solid palegreen;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 10px;
+}
+
+.F {
+    background-color:rgb(255, 127, 227);
+    border: 10px solid palegreen;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}
+
+.G {
+    background-color: rgb(255, 127, 227);
+    border: 10px solid palegreen;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}

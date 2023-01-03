@@ -1,0 +1,26 @@
+.title {
+    color: rgb(54, 54, 204);
+    background-color: pink;
+}
+
+body {
+    background-color: beige;
+}
+
+.solid {
+    background-color: cornsilk;
+    border: 3px solid cornflowerblue;
+    border-radius: 10px;
+}
+
+.dashed{ background-color: cornsilk; border: 10px dashed cornflowerblue; border-radius: 10px;}
+.dotted{ background-color: cornflowerblue; border: 10px dotted skyblue; border-radius: 10px;}
+.double{ background-color: aquamarine; border: 10px double palegoldenrod; border-radius: 10px;}
+.groove{ background-color: azure; border: 10px groove teal ; border-radius: 10px;}
+.ridge{ background-color: chartreuse; border: 10px ridge khaki; border-radius: 10px;}
+.inset{background-color: darkturquoise; border: 10px inset khaki; border-radius: 10px;}
+.outset{background-color: darkgoldenrod; border: 10px outset slategray; border-radius: 10px;}
+.border-top{border-top: 10px outset pink; border-radius: 10px;}
+.border-bottom{border-bottom: 10px groove salmon; border-radius: 10px;}
+.border-left{border-left: 10px groove salmon; border-radius: 10px;}
+.border-right{border-right: 10px groove salmon; border-radius: 10px;}

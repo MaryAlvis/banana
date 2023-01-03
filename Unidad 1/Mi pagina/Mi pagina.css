@@ -1,0 +1,120 @@
+body {
+    background-color: aquamarine;
+    margin: 20px;
+}
+
+h3 {
+    color: crimson;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+    font-family: Comic Sans MS;
+    background-color: white
+}
+
+.A {
+    background-color: yellow;
+}
+
+
+.solid {
+    background-color: cornsilk;
+    border: 3px solid cornflowerblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.dashed {
+    background-color: cornsilk;
+    border: 10px dashed cornflowerblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.dotted {
+    background-color: cornflowerblue;
+    border: 10px dotted skyblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.double {
+    background-color: rgb(240, 76, 232);
+    border: 10px double palegoldenrod;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.groove {
+    background-color: azure;
+    border: 10px groove teal;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.ridge {
+    background-color: rgb(255, 51, 0);
+    border: 10px ridge khaki;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.inset {
+    background-color: darkturquoise;
+    border: 10px inset khaki;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.outset {
+    background-color: darkgoldenrod;
+    border: 10px outset slategray;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.border-top {
+    border-top: 10px outset pink;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.border-bottom {
+    border-bottom: 10px groove salmon;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.border-left {
+    border-left: 10px groove salmon;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.border-right {
+    border-right: 10px groove salmon;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+

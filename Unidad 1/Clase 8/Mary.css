@@ -1,0 +1,57 @@
+.title {
+    color: darkblue;
+    font-size: 60px;
+    font-family: Brush Script MT;
+}
+
+body {
+    background-color: aquamarine;
+    margin: 20px;
+}
+
+.A {
+    text-decoration: overline;
+}
+
+.B {
+    text-decoration: line-through;
+}
+
+.C {
+    text-decoration: underline;
+}
+
+.D {
+    text-decoration: underline overline;
+}
+
+img {
+    width: 300px;
+    float: left;
+    margin-right: 15px;
+}
+
+
+.MachuPicchu {
+    background-color: rgb(0, 225, 255);
+}
+
+.xd {
+    margin-bottom: 200px;
+}
+
+.a {
+    text-align: center;
+}
+
+.b {
+    text-align: left;
+}
+
+.c {
+    text-align: right;
+}
+
+.d {
+    text-align: justify;
+}

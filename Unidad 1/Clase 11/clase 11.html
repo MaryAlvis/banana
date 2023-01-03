@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulando un formulario</title>
+</head>
+<link rel="stylesheet" href="CSS/clase11.css">
+<body>
+    <header>
+     <h1 class="titulo">Formulario</h1>
+    </header>
+
+    <main>
+        <form >
+            <div class="campo">
+                <label for="nombres">Nombres: </label>
+                <input type="text" name="nombres" id="nombres">
+            </div>
+            <div class="campo">
+                <label for="apellidos">Apellidos: </label>
+                <input type="text" name="apellidos" id="apellidos">
+            </div>
+            <div class="campo">
+                <label for="email">Correo electrónico: </label>
+                <input type="email" name="email" id="email">
+            </div>
+            <div class="campo">
+                <label for="fecha-nacimiento">Fecha de nacimiento: </label>
+                <input type="date" name="fechaNacimiento" id="fecha-nacimiento">
+            </div>
+            <div class="campo">
+                <p>Género: </p>
+                <span class="tab"></span><input type="radio" id="f" name="genero" value="f">
+                <label for="f">Femenino</label>
+                <input type="radio" id="m" name="genero" value="m">
+                <label for="m">Masculino</label>
+            </div>
+
+            <div class="campo">
+                <label for="estatura">Estatura: </label>
+                <input class="w-50" type="number" name="estatura" id="estatura" step="any"> metros
+            </div>
+            <div class="campo">
+                <label for="peso">Peso: </label>
+                <input class="w-50" type="number" name="peso" id="q" step="any"> kg
+            </div>
+            <div class="campo">
+                <input type="checkbox" id="deporte" name="deporte">
+                <label for="deporte">Realizo deporte regularmente.</label>
+            </div>
+            <div class="campo">
+                <button type="button" id="enviar" onclick="datos()">Enviar</button>
+            </div>
+            
+        </form>
+    </main>
+
+    <footer>
+        &copy; Todos los derechos del autor son reservados
+    </footer>
+    
+    <script src="JS/scrip.js"></script>
+</body>
+</html>
